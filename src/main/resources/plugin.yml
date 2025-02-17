@@ -1,0 +1,4 @@
+name: polina
+version: '1.0-SNAPSHOT'
+main: polina.group.polina.Polina
+api-version: '1.21'
