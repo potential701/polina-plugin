@@ -3,7 +3,6 @@ package polina.group.polina.commands
 import org.bukkit.Color
 import org.bukkit.FireworkEffect
 import org.bukkit.Location
-import org.bukkit.Material
 import org.bukkit.command.Command
 import org.bukkit.command.CommandExecutor
 import org.bukkit.command.CommandSender
