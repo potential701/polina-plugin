@@ -2,3 +2,11 @@ name: polina
 version: '1.0-SNAPSHOT'
 main: polina.group.polina.Polina
 api-version: '1.21'
+
+commands:
+    polina:
+        description: Get a "hello" from Polina
+        usage: /<command>
+        aliases: [p]
+        permission: polina.command
+        permission-message: You don't have permission to use this command
